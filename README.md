@@ -2,27 +2,9 @@
 
 I'm a Computer Science student studying at the University of Melbourne. 
 
-
-- .
-- .
-- .
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-Python • C • C++ • Java • C# • SQL
-
-**Systems & Backend**
-Docker • Linux • REST APIs • AWS
-
-**Cybersecurity**
-OpenCTI • MISP • TAXII • Threat Intelligence
-
-**Data**
-Pandas • Data Processing • Statistical Analysis
-
+- Interested in systems programming and backend development
+- Work with threat intelligence, including STIX and TAXII
+- Enjoy building things across software and embedded systems
 ---
 
 ## Portfolio
