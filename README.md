@@ -1,12 +1,7 @@
-# Hi, I'm Max 👋
+# Hi, I'm Maximus 👋
 
-I'm a software engineer focused on systems, cybersecurity, and building software that interacts with real-world infrastructure.
+I'm a Computer Science student studying at the University of Melbourne. 
 
-Currently studying Computer Science at the University of Melbourne and working in cybersecurity at Filigran.
-
----
-
-## What I Do
 
 - .
 - .
