@@ -2,7 +2,7 @@
 
 I'm a Computer Science student studying at the University of Melbourne. 
 
-- Interested in systems programming and backend development
+- Interested in systems programming and backend development and machine learning
 - Work with threat intelligence, including STIX and TAXII
 - Enjoy building things across software and embedded systems
 ---
