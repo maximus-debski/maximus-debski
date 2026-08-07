@@ -1,8 +1,50 @@
-# Hi, I'm Maximus 👋
+# 👋🙋‍♂️💬 I'm 🧑‍💻**Maximus**🔥 — 🏗️🔗 🖥️💻+🤖🧠+🛡️🔒 🚀✨
 
-- Focused on full stack development and machine learning
-- Work in cyber threat intelligence, including STIX and TAXII
-- Fluent in Python, JavaScript and C
+🎓🏫 **📅🔚-🎂 🖥️🔬 🎓🧑‍🎓 @ 🏛️University of Melbourne**
+💻🧑‍💻 **🌐💻👨‍💻 | 🤖📊🧠 | 🛡️🕵️‍♂️📡🧠**
+🌏🗺️ ❤️🔥 🛠️🔧 🖥️💡 ➡️ 🏗️📈🎯🔮 ✅
 
+---
 
-[https://maximus-debski.neocities.org/](https://maximus-debski.neocities.org/)
+## 🚀💭 About Me
+
+🙋‍♂️ 📈🔥💪🎯 🖥️🔬🧑‍🎓 ❤️💘 **💻⚙️, 🤖🧠, 🛡️🔒, 🔮⚡**
+
+🎯📍 🔗 **💡✨ + ⚡🏃‍♂️**, 🔄 🧩😵 ➡️ 🎨✨📈🎯
+
+### 💡🔦 Focus
+
+* 🌐💻 **🔨🏗️ 🖥️👨‍💻** — 🏗️🔗 📈🎯🖥️💻🎨
+* 🤖🧠 **🤖 & 🧠** — 📊➡️🔍 ➡️ 🌍🌎🧩✅
+* 🛡️🕵️ **🕵️‍♂️📡🧠** — ⚙️🏭📏🌐 **STIX** & **TAXII**
+* ⚡📚 **♾️📖** — 🔭🔍 🆕🛠️, 🖼️, ⚙️, 🚪🔓
+
+---
+
+## 🛠️🎒 Technical Arsenal
+
+```
+🐍 Python      ████████████████████
+🟨 JavaScript  ████████████████████
+⚙️ C           ████████████████████
+```
+
+🔙⚙️🏗️, 🎨🖥️👀, 🧠🎓🤖, 🔍🛡️🌐 — 🙋‍♂️ 🎁 **🧩🔧🧠, 🔍❤️, 💪🚀** ➡️ 🌍.
+
+---
+
+## 🌐🎮 Explore My Digital Playground
+
+🤔❓ 🙋‍♂️ 🏗️❓
+✨👀 **📁💼:**
+👉🔗 https://maximus-debski.neocities.org/
+
+---
+
+> 💭 *"🔮📅 🔝📈 ➡️ 🏗️🔨 ✋."*
+
+### 🤝🔗 Let's Connect
+
+🚪🔓 ➡️ 🤝 🔥🏗️👥, 🧠💡🧑‍🤝‍🧑, 🛡️🕵️‍♂️👔, 🤖🧠🥰, & 🌐🌍🔮🛠️.
+
+🚀🔨. 📚📖. 💡⚡. 1️⃣🔨📅.
